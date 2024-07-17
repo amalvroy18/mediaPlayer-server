@@ -1,0 +1,122 @@
+{
+  "allVideos": [
+    {
+      "caption": "Paladin Strait (Official)",
+      "imageUrl": "https://i.ytimg.com/vi/mix9YfaaNa0/maxresdefault.jpg",
+      "embbedLink": "https://www.youtube.com/embed/mix9YfaaNa0",
+      "id": 1
+    },
+    {
+      "caption": "Human (Official)",
+      "imageUrl": "https://i.ytimg.com/vi/L3wKzyIN1yk/maxresdefault.jpg",
+      "embbedLink": "https://www.youtube.com/embed/L3wKzyIN1yk",
+      "id": 2
+    },
+    {
+      "caption": "Hayyoda (Tamil) ",
+      "imageUrl": "https://i.ytimg.com/vi/8eYG5QGZAZs/maxresdefault.jpg",
+      "embbedLink": "https://www.youtube.com/embed/8eYG5QGZAZs",
+      "id": 3
+    },
+    {
+      "caption": "Pareshaan ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdrtJMoifkeqp_pSC-GSoLIln2pwKLpNKJg&s",
+      "embbedLink": "https://www.youtube.com/embed/zQl7zYkEP6M",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "english songs",
+      "allVideos": [
+        {
+          "caption": "Human (Official)",
+          "imageUrl": "https://i.ytimg.com/vi/L3wKzyIN1yk/maxresdefault.jpg",
+          "embbedLink": "https://www.youtube.com/embed/L3wKzyIN1yk",
+          "id": 2
+        },
+        {
+          "caption": "Paladin Strait (Official)",
+          "imageUrl": "https://i.ytimg.com/vi/mix9YfaaNa0/maxresdefault.jpg",
+          "embbedLink": "https://www.youtube.com/embed/mix9YfaaNa0",
+          "id": 1
+        },
+        {
+          "caption": "Pareshaan ",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdrtJMoifkeqp_pSC-GSoLIln2pwKLpNKJg&s",
+          "embbedLink": "https://www.youtube.com/embed/zQl7zYkEP6M",
+          "id": 4
+        }
+      ],
+      "id": 6
+    },
+    {
+      "categoryName": "hindi songs",
+      "allVideos": [
+        {
+          "caption": "Hayyoda (Tamil) ",
+          "imageUrl": "https://i.ytimg.com/vi/8eYG5QGZAZs/maxresdefault.jpg",
+          "embbedLink": "https://www.youtube.com/embed/8eYG5QGZAZs",
+          "id": 3
+        },
+        {
+          "caption": "Pareshaan ",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdrtJMoifkeqp_pSC-GSoLIln2pwKLpNKJg&s",
+          "embbedLink": "https://www.youtube.com/embed/zQl7zYkEP6M",
+          "id": 4
+        }
+      ],
+      "id": 7
+    },
+    {
+      "categoryName": "Tamil Songs",
+      "allVideos": [
+        {
+          "caption": "Hayyoda (Tamil) ",
+          "imageUrl": "https://i.ytimg.com/vi/8eYG5QGZAZs/maxresdefault.jpg",
+          "embbedLink": "https://www.youtube.com/embed/8eYG5QGZAZs",
+          "id": 3
+        },
+        {
+          "caption": "Paladin Strait (Official)",
+          "imageUrl": "https://i.ytimg.com/vi/mix9YfaaNa0/maxresdefault.jpg",
+          "embbedLink": "https://www.youtube.com/embed/mix9YfaaNa0",
+          "id": 1
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "history": [
+    {
+      "caption": "Hayyoda (Tamil) ",
+      "url": "https://www.youtube.com/embed/8eYG5QGZAZs",
+      "timeStamp": "16/07/2024, 03:01:13",
+      "id": 1
+    },
+    {
+      "caption": "Paladin Strait (Official)",
+      "url": "https://www.youtube.com/embed/mix9YfaaNa0",
+      "timeStamp": "16/07/2024, 03:12:00",
+      "id": 2
+    },
+    {
+      "caption": "Pareshaan ",
+      "url": "https://www.youtube.com/embed/zQl7zYkEP6M",
+      "timeStamp": "16/07/2024, 13:50:11",
+      "id": 3
+    },
+    {
+      "caption": "Pareshaan ",
+      "url": "https://www.youtube.com/embed/zQl7zYkEP6M",
+      "timeStamp": "16/07/2024, 13:51:33",
+      "id": 4
+    },
+    {
+      "caption": "Human (Official)",
+      "url": "https://www.youtube.com/embed/L3wKzyIN1yk",
+      "timeStamp": "16/07/2024, 22:22:50",
+      "id": 5
+    }
+  ]
+}
